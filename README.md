@@ -1,63 +1,71 @@
 # Projeto Módulo 3
 
-PROJETO MÓDULO 3 – LOW CODE / NO CODE / VIBECODE
+# Projeto Módulo 3 – Low Code/No Code/Vibecode
 
-Desafio Escolhido
+## 📌 Desafio Escolhido
 
-O desafio escolhido pelo grupo foi desenvolver um Sistema de Credenciamento Online para cadastro e gerenciamento de participantes em eventos e atividades acadêmicas. A solução foi criada para facilitar o controle de inscrições, organização de dados e gerenciamento de participantes de forma prática e digital.
+O grupo desenvolveu um Sistema de Credenciamento Online para cadastro e gerenciamento de participantes em eventos e atividades acadêmicas. O objetivo foi criar uma aplicação simples, funcional e intuitiva utilizando uma plataforma low-code/no-code.
 
-Solução Desenvolvida
+---
 
-O grupo desenvolveu um sistema web capaz de:
+## 🖥️ Protótipo
 
-• Cadastrar participantes;
-• Armazenar informações em banco de dados;
-• Listar registros cadastrados;
-• Pesquisar participantes por nome ou e-mail;
-• Editar informações;
-• Excluir registros.
+* O protótipo foi desenvolvido utilizando a plataforma Hostinger Horizons.
+* O sistema permite:
 
-O sistema foi pensado para auxiliar instituições e organizadores de eventos acadêmicos, oferecendo mais organização e praticidade no gerenciamento das inscrições.
+  * Cadastro de participantes;
+  * Listagem de registros;
+  * Pesquisa por nome ou e-mail;
+  * Edição de informações;
+  * Exclusão de registros.
 
-Protótipo
+O funcionamento do sistema ocorre através de formulários conectados a uma estrutura de armazenamento de dados da plataforma, permitindo gerenciar informações de forma organizada e eficiente.
 
-O protótipo foi desenvolvido na plataforma Hostinger Horizons.
+> Os prints das telas e arquivos do projeto podem ser adicionados na pasta `/docs`.
 
-O funcionamento ocorre através de formulários conectados ao banco de dados da plataforma. Após o cadastro, as informações ficam disponíveis para consulta, edição e exclusão.
+---
 
-Os prints das telas e arquivos do projeto podem ser adicionados na pasta “/docs” do repositório.
+## ⚙️ Plataforma Utilizada
 
-Plataforma Utilizada
+### Hostinger Horizons
 
-Nome da Plataforma:
-Hostinger Horizons
+A plataforma Hostinger Horizons foi escolhida por oferecer recursos modernos para criação rápida de aplicações web utilizando conceitos low-code/no-code e integração com ferramentas de inteligência artificial.
 
-Justificativa da Escolha:
-A plataforma foi escolhida por permitir o desenvolvimento rápido de aplicações web utilizando recursos low-code/no-code. Além disso, possui interface intuitiva, facilidade na criação de páginas e suporte para integração com recursos modernos e automações.
+### Justificativa da Escolha
 
-Vantagens Identificadas
+A ferramenta foi selecionada devido à facilidade de criação de interfaces, rapidez no desenvolvimento e suporte a automações e integrações. Além disso, a plataforma oferece um ambiente intuitivo para construção de aplicações sem necessidade de programação avançada.
+
+---
+
+## ✅ Vantagens Identificadas
 
 1. Desenvolvimento rápido do protótipo;
-2. Interface simples e intuitiva;
-3. Menor necessidade de programação;
-4. Facilidade na criação de formulários;
-5. Agilidade na implementação das funcionalidades.
+2. Interface intuitiva e moderna;
+3. Facilidade na criação de páginas e formulários;
+4. Menor necessidade de programação;
+5. Agilidade na implementação de funcionalidades.
 
-Limitações Encontradas
+---
+
+## ⚠️ Limitações Encontradas
 
 1. Dependência da plataforma;
-2. Recursos avançados limitados;
-3. Personalização mais restrita;
-4. Limitações em integrações complexas;
-5. Necessidade de planos pagos para algumas funcionalidades.
+2. Limitações de personalização avançada;
+3. Restrições em integrações mais complexas;
+4. Recursos avançados disponíveis apenas em planos pagos;
+5. Possível limitação de escalabilidade para projetos maiores.
 
-Reflexão Crítica
+---
 
-O projeto demonstrou que ferramentas low-code/no-code podem acelerar significativamente o desenvolvimento de aplicações simples. O grupo conseguiu criar uma solução funcional em pouco tempo, focando mais na lógica do sistema e na experiência do usuário.
+## 📚 Reflexão Crítica
 
-Para lidar com as limitações da plataforma, foram utilizadas alternativas disponíveis dentro do próprio ambiente do Hostinger Horizons, buscando manter o sistema organizado e funcional.
+O grupo identificou que plataformas low-code/no-code como o Hostinger Horizons tornam o desenvolvimento mais rápido e acessível, principalmente para aplicações administrativas simples. Para lidar com as limitações encontradas, foram utilizadas soluções criativas aproveitando os recursos disponíveis na própria plataforma.
 
-Colaboração
+O projeto também demonstrou a importância da organização das funcionalidades e da experiência do usuário na construção de sistemas web modernos.
+
+---
+
+## 👥 Colaboração
 
 Integrante: Diogo Ribeiro
 Função: Desenvolvimento & Estruturação do Sistema
@@ -77,23 +85,26 @@ Responsabilidades: Auxílio na configuração da plataforma, revisão das funcio
 
 Organização: O grupo realizou encontros colaborativos para definição dos requisitos do sistema e divisão das tarefas. As revisões e ajustes foram realizados de forma conjunta, garantindo organização e participação de todos os integrantes no desenvolvimento do projeto.
 
+---
 
-Registro da Aula
+## 📝 Registro da Aula
 
-Data: 11/05/2026
+**Data:** 11/05/2026
 
-Atividade: Discussão crítica e desenvolvimento de mini-projeto utilizando plataforma low-code/no-code.
+**Atividade:** Discussão crítica e desenvolvimento de mini-projeto de aplicação low-code/no-code
 
-Local: Laboratório de informática / Quadro branco
+**Local:** Laboratório de informática / Quadro branco
 
-Professora: Kadidja Valéria
+**Professora:** Kadidja Valéria
 
-Próximos Passos
+---
 
-• Melhorar a interface visual do sistema;
-• Implementar login de usuários;
-• Adicionar envio automático de e-mails;
-• Criar relatórios de participantes;
-• Integrar funcionalidades de inteligência artificial.
+## 🚀 Próximos Passos
 
-Como evolução futura, o sistema poderá se transformar em uma plataforma completa para gerenciamento de eventos acadêmicos.
+* Melhorar a interface visual do sistema;
+* Implementar login de usuários;
+* Adicionar envio automático de e-mails;
+* Criar relatórios de participantes;
+* Integrar funcionalidades de inteligência artificial.
+
+Como evolução futura, o sistema poderá se transformar em uma plataforma completa de gerenciamento de eventos acadêmicos.
